@@ -1,7 +1,5 @@
 ## 🌟 Hi, I'm Eva 👋
 ### 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/evv_cs)
 🔹 **Email**: [evachserret28@gmail.com](mailto:evachserret28@gmail.com)  
 
 

@@ -1,5 +1,7 @@
 ## 🌟 Hi, I'm Eva 👋
 🔹 **Email**: [evachserret28@gmail.com](mailto:evachserret28@gmail.com)  
+### 🚀 Welcome to My Profile
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4C8BFF&lines=Developer+%7C+Designer+%7C+Lifelong+Learner;Passionate+about+Code+and+Innovation)](https://git.io/typing-svg)
 
 ### 📊 GitHub Stats
 <div align="center">

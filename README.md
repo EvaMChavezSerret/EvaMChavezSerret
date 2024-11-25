@@ -1,6 +1,4 @@
 ## 🌟 Hi, I'm Eva 👋
-### 🌐 Connect With Me
-🔹 **Email**: [evachserret28@gmail.com](mailto:evachserret28@gmail.com)  
 
 ### 💻 GitHub Stats
 <div align="center">
@@ -23,6 +21,7 @@ Here’s my colorful toolkit:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Hello,+World!+%F0%9F%91%8B;Creative+Developer+%7C+Innovator;Coding+is+my+happy+place!)](https://git.io/typing-svg)
 
 
 <!--

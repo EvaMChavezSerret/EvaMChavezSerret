@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🔹 Feel free to reach me at **evachserret28@gmail.com**
 <!--
 **EvaMChavezSerret/EvaMChavezSerret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🔹 Feel free to reach me at **evachserret28@gmail.com**

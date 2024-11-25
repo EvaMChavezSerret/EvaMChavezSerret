@@ -1,6 +1,11 @@
-## Hi there 👋
-🔹 Feel free to reach me at **evachserret28@gmail.com**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvaMChavezSerret&show_icons=true&theme=dark&hide=stars&count_private=true)
+## 🌟 Hi, I'm Eva 👋
+🔹 **Email**: [evachserret28@gmail.com](mailto:evachserret28@gmail.com)  
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EvaMChavezSerret&show_icons=true&theme=dark&hide=stars&count_private=true" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvaMChavezSerret&layout=compact&theme=dark" alt="Top Languages" width="350">
+</div>
 
 <!--
 **EvaMChavezSerret/EvaMChavezSerret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

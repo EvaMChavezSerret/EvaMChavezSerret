@@ -1,5 +1,7 @@
 ## Hi there 👋
 🔹 Feel free to reach me at **evachserret28@gmail.com**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvaMChavezSerret&show_icons=true&theme=dark&hide=stars&count_private=true)
+
 <!--
 **EvaMChavezSerret/EvaMChavezSerret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🔹 Feel free to reach me at **evachserret28@gmail.com**

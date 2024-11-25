@@ -9,7 +9,6 @@
 ---
 
 ### 🎨 My Tech Palette
-Here’s my colorful toolkit:
 
 ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-007BFF?style=flat-square&logo=css3&logoColor=white)

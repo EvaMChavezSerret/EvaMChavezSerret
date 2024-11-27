@@ -1,4 +1,4 @@
-## 🌟 Hi, I'm Eva 👋
+## 🌟 Hi, I'm Eva CS 👋
 
 ### 💻 GitHub Stats
 <div align="center">

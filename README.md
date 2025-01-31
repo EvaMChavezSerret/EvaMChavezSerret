@@ -3,7 +3,7 @@
 ### 💻 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EvaMChavezSerret&show_icons=true&theme=radical&hide=stars&count_private=true" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvaMChavezSerret&layout=compact&theme=radical" alt="Top Languages" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/langs/?username=EvaMChavezSerret&layout=compact&theme=radical" alt=" Languages" width="350">
 </div>
 
 ---

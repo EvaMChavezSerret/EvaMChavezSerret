@@ -19,7 +19,7 @@
 ## 🔥 Contributions  
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvaMChavezSerret&theme=radical">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvaMChavezSerret&theme=radical">
 
 </p>
 

@@ -38,14 +38,6 @@
 
 ---
 
-## ⏳ Wakatime Stats (Time spent coding)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EvaMChavezSerret&layout=compact&theme=radical" width="400">
-</p>
-
----
-
 ## 🛠️ Tech Stack  
 
 ### 🌐 Frontend  

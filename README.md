@@ -1,9 +1,5 @@
 <h1 align="center">🌟 Hey there! I'm Eva CS 👋</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvaMChavezSerret&show_icons=true&theme=radical&hide=stars&count_private=true" width="400" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvaMChavezSerret&theme=radical" width="400" alt="GitHub Streak">
-</p>
 
 ---
 

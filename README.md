@@ -30,9 +30,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvaMChavezSerret&layout=compact&theme=radical&langs_count=10" width="400">
 
 📌 **Repositories and Contributions**  
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvaMChavezSerret&theme=radical" width="400">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EvaMChavezSerret&theme=radical" width="400">
-
+</p>
 ---
 
 ## 🛠️ Tech Stack  

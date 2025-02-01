@@ -19,7 +19,8 @@
 ## 🔥 Contributions  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EvaMChavezSerret&theme=radical" width="800">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvaMChavezSerret&theme=radical">
+
 </p>
 
 ---
